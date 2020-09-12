@@ -1,0 +1,5 @@
+C:\Users\gurpreet.singh\Documents\Visual Studio 2019\Projects\FarraBook\obj\Debug\netcoreapp3.1\FarraBook.csprojAssemblyReference.cache
+C:\Users\gurpreet.singh\Documents\Visual Studio 2019\Projects\FarraBook\obj\Debug\netcoreapp3.1\FarraBook.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gurpreet.singh\Documents\Visual Studio 2019\Projects\FarraBook\obj\Debug\netcoreapp3.1\FarraBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gurpreet.singh\Documents\Visual Studio 2019\Projects\FarraBook\obj\Debug\netcoreapp3.1\FarraBook.AssemblyInfoInputs.cache
+C:\Users\gurpreet.singh\Documents\Visual Studio 2019\Projects\FarraBook\obj\Debug\netcoreapp3.1\FarraBook.AssemblyInfo.cs
